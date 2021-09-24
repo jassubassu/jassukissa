@@ -3,10 +3,7 @@ h1  {
     font-size: 40px;
 }
 
-body    {
-    box-align: center;
-}
-
 p   {
+    text-align: center;
     font-size: 25px;
 }
