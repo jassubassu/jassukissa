@@ -7,7 +7,7 @@ p   {
 }
 
 ol  {
-    text-align: center;
+    ol.text-align: center;
 }
 
 li  {
