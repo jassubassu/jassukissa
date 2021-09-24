@@ -12,3 +12,7 @@ p   {
 lista   {
     width: 50%;
 }
+
+a:hover{
+    color: hotpink;
+}
