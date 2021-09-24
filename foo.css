@@ -3,12 +3,10 @@ h1  {
     font-size: 40px;
 }
 
-p   {
-    text-align: center;
-    font-size: 25px;
+body    {
+    align: center;
 }
 
-a   {
-    text-align: center;
-    display: inline-block
+p   {
+    font-size: 25px;
 }
